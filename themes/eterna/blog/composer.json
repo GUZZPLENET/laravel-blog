@@ -1,0 +1,20 @@
+{
+    "name": "eterna/blog",
+    "description": "Main theme for blog website",
+    "type": "laravel-theme",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Eterna",
+            "email": "baran.cihann@gmail.com"
+        }
+    ],
+    "extra": {
+        "theme": {
+            "parent": "",
+            "active": true,
+            "screenshot": "screenshot.png"
+        }
+    }
+}
